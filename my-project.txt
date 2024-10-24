@@ -2,3 +2,4 @@ MyProject
 - membuat tugas flutter
 - web menggunakan AAA cyber scurity
 - belajar bahasa pemrograman baru
+- konsisten untuk kerja
