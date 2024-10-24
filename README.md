@@ -1,2 +1,2 @@
 # my-private-work
-repositiry untuk semua project saya
+repository untuk semua project saya
